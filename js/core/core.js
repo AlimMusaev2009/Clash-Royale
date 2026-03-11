@@ -1,3 +1,3 @@
-Function hellocore() (
+Function hellocore() {
   console.log("core mechanics ready");
-)
+}
